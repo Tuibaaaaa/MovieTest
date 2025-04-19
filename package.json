@@ -1,5 +1,10 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "vite": "^6.3.2"
-  }
+  },
+  "scripts": {
+  "build": "vite build",
+  "dev": "vite"
+}
+
 }
